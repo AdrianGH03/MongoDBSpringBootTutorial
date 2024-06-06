@@ -135,3 +135,4 @@ Q MongoDB vs SQL databases
 - MongoDB is more flexible and scalable than SQL databases
 - SQL databases are more structured and have a fixed schema
 - MongoDB is better suited for unstructured data# MongoDBSpringBootTutorial
+# MongoDBSpringBootTutorial
